@@ -17,6 +17,7 @@
 - PHP
 - Symfony
 - JavaScript
+- jQuery
 - SQL
 - HTML
 - CSS

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Always looking for something to learn</h3>
+<h2 align="center">I work for TJS Online in Lincolnshire as a developer</h2>
 
 - 🔭 I’m currently working on **Code Instute Trust in Soda Hackathon**
 
